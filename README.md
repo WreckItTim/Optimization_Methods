@@ -1,5 +1,5 @@
 # Optimization_Methods
-line search, trust region, BFGS, and others
+python code for line search, trust region, BFGS, and others
 
 Each method is modulated to switch out various submethods, such as how to find step size and direction.
 
