@@ -7,5 +7,3 @@ I followed the algorithms found in the book cited below, and constantly referenc
 Nocedal, Jorge, and Stephen J. Wright. Numerical optimization. New York: Springer, 2006. Print.
 
 Done in a python notebook with examples at end, including visual represenations of the optimization search.
-
-Please let me know if you find bugs!
